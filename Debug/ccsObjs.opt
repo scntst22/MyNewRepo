@@ -1,0 +1,1 @@
+"./volume.obj" "./vectors.obj" "./load.obj" -l"libc.a" "../link6748.cmd" 
